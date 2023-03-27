@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate Student.</h3>
+
+<h1 align="center">Hi 👋, I'm Abhishek Kumar.</h1>
+<h3 align="center">I am a passionate programmer who enjoys both the challenges and rewards of competitive programming and web development. Through competitive programming, I have honed my problem-solving and algorithmic skills, while my experience in web development has equipped me with expertise in creating visually appealing and functional websites.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1XY2LvDbydgCCMfae0hrFJtdd7WouCvNG/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-cpp&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-cpp" /> </p>
 
@@ -9,7 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhi-cpp?tab=repositories](https://github.com/Abhi-cpp?tab=repositories)
 
-- 📫 How to reach me **abhishekkumar986874@gmail.com**
+- 📫 Reach me at **abhishekkumar986874@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pqBhDMPzWicYpVcZTw1gr69Jpz7DtuiN/view?usp=sharing](https://drive.google.com/file/d/1pqBhDMPzWicYpVcZTw1gr69Jpz7DtuiN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +30,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-cpp&show_icons=true&locale=en&layout=compact" alt="abhi-cpp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-cpp&show_icons=true&locale=en" alt="abhi-cpp" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-cpp&" alt="abhi-cpp" /></p>
+
